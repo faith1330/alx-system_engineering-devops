@@ -1,1 +1,1 @@
-play StarWars IV
+switch current user
