@@ -1,1 +1,1 @@
-set permission
+set mood
