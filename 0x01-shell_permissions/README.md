@@ -1,1 +1,1 @@
-set mood
+switch current user
