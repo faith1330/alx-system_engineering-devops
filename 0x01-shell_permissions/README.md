@@ -1,1 +1,1 @@
-print username
+set file mood
