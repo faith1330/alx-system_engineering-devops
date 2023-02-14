@@ -1,1 +1,1 @@
-Create a script that prints hello user
+Create a script
